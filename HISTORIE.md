@@ -7,3 +7,5 @@
 **GIT** is smart and makes collaborating more efficient.
 
 Hej med dig
+
+hva så er vi klaaaaaar?! eller
